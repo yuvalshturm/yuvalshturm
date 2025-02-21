@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yuval</h1>
-<h3 align="center">A passionate Computer Science student</h3>
+<h1 align="center">Hi, I'm Yuval</h1>
+<h3 align="center">A 2nd Year Computer Science student at Technion - Israel Institute of Technology</h3>
 
-- I’m currently learning **Full Stack web development.**
+Working towards developing some personal projects:
+- Currently learning **Full Stack web development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
